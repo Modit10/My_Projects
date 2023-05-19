@@ -1,0 +1,35 @@
+                                                        Financial Data Analysis of the Western Countries
+                                                        ------------------------------------------------
+
+Actionables:
+~ Performed analysis on Financial Countries dataset using Excel, SQL, Power BI & Tableau.
+~ Data Cleaning & Statistical & Graphical Analysis using Excel.
+~ Designing parameters & creating a database using SQL for the construction of the database table along with its verification.
+~ Importing the data in Power BI from SQL Database.
+~ Creating a detailed & interactive dashboard by using Power BI to find answers for Yearly Sales, Country wise sales, Top & Bottom performing countries, etc.
+
+About:
+~ The dataset is about the "Western Countries Financial Data"
+~ The dataset contains financial information regarding the sale of company products across different countries and segments in the year 2013 and 2014.
+~ The dataset that we will be analyzing consists of financial data for 6 products sold across 5 countries.
+~ The product is sold in various segments, namely:
+        - Channel Partners, Enterprise, Government, Midmarket, and Small Business.
+~ The product is being sold across different countries, which include:
+        - Canada, France, Germany, Mexico, and the USA.
+~ The product line includes multiple varieties, which are:
+        - Amarilla, Carretera, Montana, Paseo, Velo, and VTT.
+~ The discount on gross sale is determined based on the discount band, which consists of four categories:
+        - None (0%), Low (1-4%), Medium (5-9%), High (10-15%).
+
+
+Conclusion and Inferences:
+After conducting a comprehensive analysis of the financial dataset, we have arrived at several key insights. These insights are as follows:
+  ~ Sales performance in the Channel Partners and Midmarket Segments was low and requires further investigation.
+  ~ Paseo was the most popular product across all segments in all five countries.
+  ~ The Government segment was the most profitable and generated the highest sales.
+  ~ Carretera was the least profitable product.
+  ~ The Enterprise segment recorded a loss of $(614.55K), with total discounts exceeding one million dollars. Therefore, there is a need for increased focus and improvement in this segment.
+  ~ While all five countries contributed almost equally to sales and profit, France was the most profitable country, and the USA had the highest sales.
+  ~ Sales showed a gradual increase in the first three quarters, with a sharp increase in the fourth quarter, indicating that people tend to buy more towards the end of the year.
+  ~ Discounts had a positive impact on product sales, leading to increased demand. Conversely, sales were observed to be lower in the absence of any discount.
+These findings highlight the importance of identifying and addressing areas of weakness, focusing on high-performing products and segments, and leveraging discounts to increase sales.
