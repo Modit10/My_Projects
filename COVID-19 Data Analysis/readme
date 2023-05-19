@@ -1,0 +1,22 @@
+                                                                  COVID_19 Data Analysis
+                                                                  ----------------------
+
+About the dataset:
+~ The dataset is covid dataset for 2019.
+~ The dataset contains 2820 records with 15 columns of information.
+
+
+COVID-19 Data Analysis using Power BI:
+~ Dashboard size is 1250px wide by 750px tall
+~ Conducted analysis 187 Countries.
+~ Imported the data in Power BI from Excel.
+~ Created Three cards for Active cases, Deaths and Recovered.
+~ Specified filters such as country/region and WHO region.
+~ Made Two visuals: - Country VS. Deaths and Recovered.
+                    - WHO region Vs. One week % increase.
+~ Creating a detailed & interactive dashboard by using Power BI to find answers for Total Active Cases, Total Death and Recovered, Country & Region wise Cases/Deaths, etc.
+~ The dashboard provided insights into the data, including trends, patterns, and correlations related to the COVID-19 pandemic.
+~ Also answered few questions, such as: - How many WHO regions?
+                                        - Total new cases from the dataset?
+                                        - Total Active cases?
+                                        - Which Country has highest Deaths?
