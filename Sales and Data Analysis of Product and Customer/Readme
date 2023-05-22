@@ -1,0 +1,35 @@
+                                                        Sales and Data Analysis of Product and Customer 
+                                                        ------------------------------------------------
+
+Actionables:
+~ Performed analysis on Customer and Product Sales dataset using Power BI.
+~ Imported JSON data into Power BI for analysis and visualization.
+~ Conducted comprehensive data cleaning and transformation tasks, including creating measures and columns such as Total Sales Amount, Month Year, Full Name, and Maximum & Minimum Sales Amount.
+~	Developed an interactive and insightful dashboard using Power BI, enabling the exploration of key metrics and answering important business questions.
+~	Utilized the dashboard to identify customers with the highest and minimum sales amounts, determine the product category with the highest sales, and analyse month-over-month sales trends.
+~ Derived valuable conclusions and insights from the data and the dashboard.
+
+
+About:
+~ Two datasets are available for analysis: Customers and Product Sales. The Customers dataset contains customer details, while the Product Sales dataset includes information on products and sales.
+~ The Customers dataset comprises data from Five Country Regions :
+          - Australia, Canada, France, Germany, UK, and USA.
+~ In total, there are 274 cities represented in the dataset. And a total of 130 products sold.
+~ A new column called "Full Name" has been created, which combines the First Name, Middle Name, and Last Name columns into a single column.
+~ The available data spans the years 2011, 2012, 2013, and 2014.
+~ The product is sold in various category, namely:
+          - Bikes, Accessories and Clothing.
+~ Our analysis will focus on various dimensions and financial metrics to gain a thorough understanding of the underlying insights
+~ Analytical tool Power BI is used to perform the analysis.
+
+
+Conclusion and Inferences:
+After conducting a comprehensive analysis of the financial dataset, we have arrived at several key insights. These insights are as follows:
+  ~ The total sales amount for the company is $29.36M, with an average sales amount of $486.09. This indicates a considerable volume of sales activity.
+  ~ Analyzing the average sales reveals that there is a considerable portion of customers who placed smaller orders. This suggests the need for the company to strengthen its customer base by targeting and engaging these customers effectively.
+  ~ Bikes, despite having only about 1/3rd of the total email promotion, contributed the highest sales amount. Accessories, despite having half of the total email promotion, only contributed 2.4% of the sales. This suggests a strong preference for Bikes among customers and highlights the limited impact of promotional efforts for Accessories.
+  ~ Accessories and Clothing emerged as the least sold product categories, indicating potential areas for improvement or reevaluation.
+  ~ The United States stood out with the highest volume of email promotion, accounting for 42.70% of the total. This emphasizes a significant focus on promotional activities within the United States market.
+  ~ The company received a strong response from the United States and Australia, as indicated by the high sales compared to other countries. This highlights the importance of focusing on these markets to maximize sales potential.
+  ~ The Sum of Sales Amount experienced a remarkable 701.90% increase from April 2011 to April 2014, with the steepest incline occurring between October 2012 and April 2014.
+These findings highlight the strong demand for Bikes, the influence of the United States market, the positive correlation between sales metrics, and the significant growth in sales performance over time.
